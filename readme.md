@@ -1,4 +1,4 @@
-<h1 align="center"> <b>Hi I am Ashan Tharaka</b></h1>
+<h1 align="center"> <b>Hi, I am Ashan Tharaka</b></h1>
 
 <h4>Hi!! I'm a Undergraduate, and Tech Enthusiast!</h4>
 🌱 I’m currently learning everything 🤣
