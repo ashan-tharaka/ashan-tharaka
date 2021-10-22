@@ -4,8 +4,10 @@
 🌱 I’m currently learning everything 🤣
 
  👨‍💻 All of my projects are available at [https://github.com/ashan-tharaka](https://github.com/ashan-tharaka)
+
  📝 I regulary write articles on [https://ashan-tharaka.medium.com/](https://ashan-tharaka.medium.com/)
  👯 I’m looking to contribute more open source projcts
+
  🥅 I'm Passionate data science and machine learning and software engineering.
 📫 How to reach me **ashantharaka715@gmail.com**
 
