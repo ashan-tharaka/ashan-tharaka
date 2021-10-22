@@ -44,4 +44,6 @@ Connect with me: <img src="https://camo.githubusercontent.com/ec0df7b334d15078e9
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ashan-tharaka&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D"><br>
 <h3>Github Stats</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashan-tharaka&show_icons=true&theme=tokyonight&count_private=true&hide=stars&include_all_commits=true" alt="pavindulakshan" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=ashan-tharaka&show_icons=true&theme=tokyonight&count_private=true&hide=stars&include_all_commits=true" alt="ashan-tharaka" /> </p>
+<h3>Top Languages</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashan-tharaka&theme=tokyonight&show_icons=true" alt="ashan-tharaka" />
