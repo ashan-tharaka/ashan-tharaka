@@ -29,6 +29,7 @@ Connect with me: <img src="https://camo.githubusercontent.com/ec0df7b334d15078e9
 <img  alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img  alt="Intellij" width="30px" src="https://camo.githubusercontent.com/9db6f827ce993e7f7c656eb9e2bc88164b327bacfc0d6a3bb7952803f3715e06/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f696e74656c6c696a2d696465612e706e67" />
 <img  alt="Pycharm" width="30px" src="https://camo.githubusercontent.com/cb5ba8d29ac69b68b55c218f7a0c8367e2bb035cfc7d6a40267685c7035cd9d8/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f7079636861726d2e706e67" />
+<img  alt="Clion" src="https://e7.pngegg.com/pngimages/458/617/png-clipart-clion-jetbrains-intellij-idea-c-macos-linux-angle-text-thumbnail.png" width=30px height=30px/>
 <img alt="android atudion" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyeCar0mxqygVMJEdfsU5CMpOLG9lD9qDeag&usqp=CAU" width="30px" height="30" width="20" /></a>
 
 <img  alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
