@@ -21,9 +21,10 @@ Connect with me: <img src="https://camo.githubusercontent.com/ec0df7b334d15078e9
   <a href="https://twitter.com/jkatp4" target="_blank" ><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="ashan-tharaka" height="20" width="20" /> &#8226;
 <a href="https://stackoverflow.com/users/14722577/ashan-tharaka" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="ashan" height="20" width="20" /></a>
   &#8226;
-</p>
+<a href="https://www.facebook.com/ashan.tharaka.7543653" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/facebook_icon_130940.png"  height="20" width="20" /></a>
+ &#8226;
 <h3>Language and Tools:</h3>
-
+</p>
 <p align="center">
 <img  alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img  alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
