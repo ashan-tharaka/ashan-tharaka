@@ -41,4 +41,7 @@ Connect with me: <img src="https://camo.githubusercontent.com/ec0df7b334d15078e9
 <img  alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img  alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />    </p>
 <h3>Contributions</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ashan-tharaka&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ashan-tharaka&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D"><br>
+<h3>Github Stats</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ashan-tharaka&show_icons=true&theme=tokyonight&count_private=true&hide=stars&include_all_commits=true" alt="pavindulakshan" /> </p>
