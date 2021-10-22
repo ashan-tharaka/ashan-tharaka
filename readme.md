@@ -6,7 +6,7 @@
  👨‍💻 All of my projects are available at [https://github.com/ashan-tharaka](https://github.com/ashan-tharaka)<br>
  📝 I regulary write articles on [https://ashan-tharaka.medium.com](https://ashan-tharaka.medium.com/)<br>
  👯 I’m looking to contribute more open source projcts<br>
- 🥅 I'm Passionate data science and machine learning and software engineering.
+ 🥅 I'm Passionate data science and machine learning and software engineering.<br>
 📫 How to reach me **ashantharaka715@gmail.com**
 
 
