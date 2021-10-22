@@ -18,7 +18,24 @@ Connect with me: <img src="https://camo.githubusercontent.com/ec0df7b334d15078e9
   &#8226;
 <a href="https://www.linkedin.com/in/ashan-tharaka-29a2911a6/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="ashan-tharaka" height="20" width="20" /></a>
   &#8226;
-  <a href="https://twitter.com/jkatp4" target="_blank" ><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="ashan-tharaka" height="20" width="20" />
+  <a href="https://twitter.com/jkatp4" target="_blank" ><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="ashan-tharaka" height="20" width="20" /> &#8226;
 <a href="https://stackoverflow.com/users/14722577/ashan-tharaka" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="ashan" height="20" width="20" /></a>
   &#8226;
 </p>
+<h3>Language and Tools:</h3>
+
+<p align="center">
+<img  alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img  alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img  alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img  alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img  alt="java"  width="30px" src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" /> 
+<img  alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="30px" />
+<img  alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img  alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img  alt="MySQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-2-1175137.png" alt="mongodb" width="30px"/> 
+<img  alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img  alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img  alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />    </p>
