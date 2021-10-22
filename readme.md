@@ -19,6 +19,6 @@ Connect with me: <img src="https://camo.githubusercontent.com/ec0df7b334d15078e9
 <a href="https://www.linkedin.com/in/ashan-tharaka-29a2911a6/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="ashan-tharaka" height="20" width="20" /></a>
   &#8226;
   <a href="https://twitter.com/jkatp4" target="_blank" ><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="ashan-tharaka" height="20" width="20" />
-<a href="https://stackoverflow.com/users/14722577/ashan-tharaka" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="ashan" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/users/14722577/ashan-tharaka" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="ashan" height="20" width="20" /></a>
   &#8226;
 </p>
