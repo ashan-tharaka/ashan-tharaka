@@ -1,15 +1,15 @@
 <h1 align="center"> <b>Hi, I am Ashan Tharaka</b></h1>
-
+  
 <h4>Hi!! I'm a Undergraduate, and Tech Enthusiast!</h4>
 🌱 I’m currently learning everything 🤣
-
- 👨‍💻 All of my projects are available at [https://github.com/ashan-tharaka](https://github.com/ashan-tharaka)<br>
- 📝 I regulary write articles on [https://ashan-tharaka.medium.com](https://ashan-tharaka.medium.com/)<br>
+  
+ 👨‍💻 All of my projects are available at [https://github.com/ashan-tharaka](https://github.com/ashan-tharaka )<br>
+ 📝 I regulary write articles on [https://ashan-tharaka.medium.com](https://ashan-tharaka.medium.com/ )<br>
  👯 I’m looking to contribute more open source projcts<br>
  🥅 I'm Passionate data science and machine learning and software engineering.<br>
 📫 How to reach me **ashantharaka715@gmail.com**
-
-
+  
+  
 Connect with me: <img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width=30pcx>
 <p align="left">
 <a href="https://ashan-tharaka.medium.com/"  target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="ashan" height="20" width="20" /></a>
@@ -32,7 +32,7 @@ Connect with me: <img src="https://camo.githubusercontent.com/ec0df7b334d15078e9
 <img  alt="Pycharm" width="30px" src="https://camo.githubusercontent.com/cb5ba8d29ac69b68b55c218f7a0c8367e2bb035cfc7d6a40267685c7035cd9d8/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3234302f3030303030302f7079636861726d2e706e67" />
 <img  alt="Clion" src="https://e7.pngegg.com/pngimages/458/617/png-clipart-clion-jetbrains-intellij-idea-c-macos-linux-angle-text-thumbnail.png" width=30px height=30px/>
 <img alt="android atudion" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyeCar0mxqygVMJEdfsU5CMpOLG9lD9qDeag&usqp=CAU" width="30px" height="30" width="20" /></a>
-
+  
 <img  alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img  alt="CSS3" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img  alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -49,9 +49,10 @@ Connect with me: <img src="https://camo.githubusercontent.com/ec0df7b334d15078e9
 <img  alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img  alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />    </p>
 <h3>Contributions</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ashan-tharaka&theme=dracula&date_format=%5BY%20%5DM%20j&background=383F37(https://git.io/streak-stats)"><br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ashan-tharaka&theme=tokyonight_duo&date_format=M%20j%5B%2C%20Y%5D"><br>
 <h3>Github Stats</h3>
-
+  
 <img src="https://github-readme-stats.vercel.app/api?username=ashan-tharaka&show_icons=true&theme=tokyonight&count_private=true&hide=stars&include_all_commits=true" alt="ashan-tharaka" /> </p>
 <h3>Top Languages</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashan-tharaka&theme=tokyonight&show_icons=true" alt="ashan-tharaka" />
+  
