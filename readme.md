@@ -23,7 +23,7 @@ Connect with me: <img src="https://camo.githubusercontent.com/ec0df7b334d15078e9
   &#8226;
 <a href="https://www.facebook.com/ashan.tharaka.7543653" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/2108/PNG/512/facebook_icon_130940.png"  height="20" width="20" /></a>
  &#8226;
-   <a href="https://www.hackerrank.com/ashantharaka" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FHackerRank&psig=AOvVaw3c6_tDpid5XIGnHSrOtFpY&ust=1638015450453000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJDl65qBtvQCFQAAAAAdAAAAABAD"  height="20" width="20" /></a>
+   <a href="https://www.hackerrank.com/ashantharaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"  height="20" width="20" /></a>
  &#8226;
 <h3>Language and Tools:</h3>
 </p>
