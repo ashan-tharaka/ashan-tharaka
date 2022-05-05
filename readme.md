@@ -1,6 +1,6 @@
 <h1 align="center"> <b>Hi, I am Ashan Tharaka</b></h1>
 
-<h4>Hi!!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm a Undergraduate, and Tech Enthusiast!</h4>
+<h4>Hi!!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm a IT Undergraduate, and Tech Enthusiast!</h4>
 🌱 I’m currently learning everything 🤣
 
  👨‍💻 All of my projects are available at [https://github.com/ashan-tharaka](https://github.com/ashan-tharaka)<br>
