@@ -8,7 +8,9 @@
  👯 I’m looking to contribute more open source projcts<br>
  🥅 I'm Passionate data science and machine learning and software engineering.Also I am MERN stack enthusiast<br>
 📫 How to reach me **ashantharaka715@gmail.com**
-
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=21&color=00EBF7&width=550&lines=Passionate%2C+Enthusiastic+and+Skilled+Undergraduate;Creative%2C+Smart+and+Easy-going+Individual;Responsible+and+Committed+Team+Player"></a>
+</p>
 
 Connect with me: <img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width=30pcx>
 <p align="left">
