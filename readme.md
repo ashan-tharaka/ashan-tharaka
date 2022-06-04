@@ -61,3 +61,7 @@ Connect with me: <img src="https://camo.githubusercontent.com/ec0df7b334d15078e9
 <img src="https://github-readme-stats.vercel.app/api?username=ashan-tharaka&show_icons=true&theme=tokyonight&count_private=true&hide=stars&include_all_commits=true" alt="ashan-tharaka" /> </p>
 <h3>Top Languages</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashan-tharaka&theme=tokyonight&show_icons=true" alt="ashan-tharaka" />
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/ashan-tharaka/github-readme-activity-graph"><img alt="ashan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ashan-tharaka&bg_color=0D1117&color=00b7ff&line=00eeff&point=FFFFFF&hide_border=true" /></a>
+  <br/>
