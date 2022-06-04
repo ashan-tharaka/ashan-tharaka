@@ -65,3 +65,6 @@ Connect with me: <img src="https://camo.githubusercontent.com/ec0df7b334d15078e9
   <br/>
    <a href="https://github.com/ashan-tharaka/github-readme-activity-graph"><img alt="ashan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ashan-tharaka&bg_color=0D1117&color=00b7ff&line=00eeff&point=FFFFFF&hide_border=true" /></a>
   <br/>
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashan-tharaka&layout=compact&theme=dracula" alt="Trophies" /></a> </p>
