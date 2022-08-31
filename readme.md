@@ -39,22 +39,22 @@ Connect with me: <img src="https://camo.githubusercontent.com/ec0df7b334d15078e9
  <img  alt="WebStorm" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/WebStorm_Icon.svg/1200px-WebStorm_Icon.svg.png" width=40px height=40px/>
 <img alt="android atudion" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyeCar0mxqygVMJEdfsU5CMpOLG9lD9qDeag&usqp=CAU" width="40px" height="40" width="20" /></a>
 
-<img  alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img  alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img  alt="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img  alt="java"  width="40px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
-<img alt="c#" width="40px" src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue-thumbnail.png"/>
-<img alt="c" width="40px" src="https://img.pngio.com/letter-c-icon-free-download-as-png-and-ico-icon-easy-c-blue-png-256_256.png"/>
-<img  alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img  alt="AngularJS" width="40px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/angular-js-512.png" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="40px" />
-<img  alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img  alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img  alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-2-1175137.png" alt="mongodb" width="40px"/> 
-<img  alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img  alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img  alt="Terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />    </p>
+<img  alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img  alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img  alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img  alt="java"  width="50px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> 
+<img alt="c#" width="50px" src="https://e7.pngegg.com/pngimages/520/669/png-clipart-c-logo-c-programming-language-computer-icons-computer-programming-programming-miscellaneous-blue-thumbnail.png"/>
+<img alt="c" width="50px" src="https://img.pngio.com/letter-c-icon-free-download-as-png-and-ico-icon-easy-c-blue-png-256_256.png"/>
+<img  alt="React" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img  alt="AngularJS" width="50px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/angular-js-512.png" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png" alt="python" width="50px" />
+<img  alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img  alt="SQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img  alt="MySQL" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
+<img src="https://cdn.iconscout.com/icon/free/png-512/mongodb-2-1175137.png" alt="mongodb" width="50px"/> 
+<img  alt="Git" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img  alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img  alt="Terminal" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />    </p>
 <h3>Contributions</h3>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=ashan-tharaka&theme=dracula&date_format=%5BY%20%5DM%20j&background=383F37(https://git.io/streak-stats)"><br>
 <h3>Github Stats</h3>
